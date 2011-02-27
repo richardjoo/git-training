@@ -1,5 +1,0 @@
-new file here
-
-branch1 - added new line here
-
-branch2 - added new line here
